@@ -1,3 +1,4 @@
 x = 10
 y = 9
-print(x)
+z = 8
+print(x+y+z)
